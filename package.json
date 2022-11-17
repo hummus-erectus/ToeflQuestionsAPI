@@ -1,0 +1,16 @@
+{
+  "name": "toeflquestions",
+  "version": "1.0.0",
+  "description": "TOEFL Independent Speaking Questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Grayson",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^8.0.3",
+    "http-server": "^14.1.1",
+    "js-yaml": "^4.1.0"
+  }
+}
