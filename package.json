@@ -4,6 +4,8 @@
   "description": "TOEFL Independent Speaking Questions",
   "main": "index.js",
   "scripts": {
+    "build": "node bin/build.js",
+    "serve": "http-server build -p 8000",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Robert Grayson",
